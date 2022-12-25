@@ -3,7 +3,7 @@
 // simply run "npm run build" for production
 
 const APP = {
-  API_URL: "http://cdbethesda.space"
+  API_URL: "https://db.cdbethesda.space"
 };
 
 export default APP;

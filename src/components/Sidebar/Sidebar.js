@@ -26,7 +26,7 @@ export default function Sidebar() {
           >
             <img
               alt="..."
-              src={require("../../assets/img/logo-kemendagri.png")}
+              src={require("../../assets/img/bgtest.jpg")}
               className="h-12 align-center border-none"
             />
           </Link>

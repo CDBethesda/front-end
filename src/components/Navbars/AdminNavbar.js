@@ -14,8 +14,7 @@ export default function Navbar() {
             href="#pablo"
             onClick={(e) => e.preventDefault()}
           >
-            Rekam Medis Poliklinik Kemendagri Ditjen Bina Pemerintahan Desa
-
+            CD Bethesda
           </a>
           {/* Form */}
           <form className="md:flex hidden flex-row flex-wrap items-center lg:ml-auto mr-3">
